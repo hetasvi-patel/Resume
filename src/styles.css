@@ -1,0 +1,55 @@
+/* CSS for the light black row */
+.light-black-row {
+    background-color: #333; /* Dark gray color */
+    color: #fff; /* Text color */
+    padding: 15px 0; /* Adjust padding as needed */
+    text-align:center;
+    margin: auto;
+    height: 55px;
+}
+.header{
+    padding-bottom:50px;
+    margin: 40px;
+}
+.gradient-line {
+    height: 5px; /* Adjust the height of the line */
+    background: linear-gradient(to right, black, green); /* Gradient from green to black */
+}
+h1{
+    text-align: center;
+    font-style: bold;
+    margin-top: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+}
+
+.left-content {
+    float: left;
+}
+
+.right-content {
+    padding:30px;
+    font-size: 20px;
+    display: flex;
+    margin-left:70px;
+    margin-top:-50px;
+
+}
+.div1{
+    padding: 13px;
+    display: flex;
+    font-size: normal;
+}
+.div2{
+   margin-right:15px;
+   font-size:normal;
+}
+
+.div3{
+        
+       font-size: normal;
+}
+.div4{
+    padding-left:130px;
+
+}
